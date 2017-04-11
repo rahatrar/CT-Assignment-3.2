@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One');
+
+body{
+
+  margin: 0;
+  padding: 0;
+}
+
+.contin{
+  width: 1000px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.top{
+	background: #3b5998;
+	overflow: hidden;
+}
+.f-box{
+
+	float: left;
+	display: block;
+}
+
+.f-box p b{
+   font-family: 'Concert One', cursive;
+   color: #fff;
+   font-size: 50px;
+}
+.login{
+	float: right;
+}
+
+.login form label{
+	color: #fff;
+	padding: 0;
+	margin: 0;
+}
+
+.login form{
+	margin: 20px auto;
+	padding: 0;
+}
+
+.lbutton{
+	background: #3b5998;
+	color: #fff;
+}
+
+.form{
+	background:#D2D8E8;
+	overflow: hidden;
+	}
+
+.f-b{
+	float: left;
+	width: 50%;
+overflow: hidden;
+}
+.f-b h1{
+	font-size: 40px;
+
+}
+.img{
+	width:50%;
+	overflow: hidden;
+	float: left;
+}
+.fullname{
+	width: 250px;
+	height: 20px;
+	border-radius: 10px 10px 10px 10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+	overflow: hidden;
+}
+.mobile{
+	width: 250px;
+	height: 20px;
+	border-radius: 10px 10px 10px 10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+}
+.pass{
+	width: 250px;
+	height: 20px;
+	border-radius: 10px 10px 10px 10px;
+	background: white;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.bir{
+	font-size: 20px;
+}
+.but{
+	width: 203px;
+height: 56px;
+background: green;
+color: white;
+font-size: 20px;
+border-radius: 15px 15px 15px 15px;
+
+}
+
+.futar{
+	background: white;
+}
+
+.l{
+	color: #4286c8;
+}
+
+.hr{
+	color: #d2d8e8;
+}
+
+.fb{
+font-size: 25px;
+color: #0E385F;
+font-family: 'Concert One', cursive;
+}
